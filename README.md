@@ -22,6 +22,14 @@ Kemudian ctrl+f dan search socket, hilangkan titik koma dari seleksi biru terseb
 
 ![421414](https://user-images.githubusercontent.com/72307737/111793641-0ad61000-88f8-11eb-9a26-c1e15d1902f5.png)
 
+Berikut ini tampilan setelah titik koma dihapus
+
+![Untitled4124141](https://user-images.githubusercontent.com/72307737/111795972-47a30680-88fa-11eb-9a55-aae58203260f.png)
+
+Kemudian tekan Ctrl+S..
+
+Ulangi lagi buka shell dan masukkan php -q htdocs/demo/src/chatws.php
+
 Setelah selesai, maka buka browser dan ketikkan http://localhost/demo/index.php maka tampilan aplikasi chatting web socket akan muncul
 
 ![WhatsApp Image 2021-03-19 at 9 23 05 PM](https://user-images.githubusercontent.com/72307737/111795047-6bb21800-88f9-11eb-8eb4-b5f3ec1b0ad2.jpeg)
