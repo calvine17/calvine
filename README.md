@@ -24,5 +24,9 @@ Kemudian ctrl+f dan search socket, hilangkan titik koma dari seleksi biru terseb
 
 Setelah selesai, maka buka browser dan ketikkan http://localhost/demo/index.php maka tampilan aplikasi chatting web socket akan muncul
 
+![WhatsApp Image 2021-03-19 at 9 23 05 PM](https://user-images.githubusercontent.com/72307737/111795047-6bb21800-88f9-11eb-8eb4-b5f3ec1b0ad2.jpeg)
+
+Itulah web socket programming sederhana yang saya modifikasi...
+
 
 
