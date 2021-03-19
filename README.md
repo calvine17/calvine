@@ -34,6 +34,10 @@ Setelah selesai, maka buka browser dan ketikkan http://localhost/demo/index.php 
 
 ![WhatsApp Image 2021-03-19 at 9 23 05 PM](https://user-images.githubusercontent.com/72307737/111795047-6bb21800-88f9-11eb-8eb4-b5f3ec1b0ad2.jpeg)
 
+Jika socket programming terlalu lama dibuka maka dia akan menutup koneksi sesuai server XAMPP kita
+
+![WhatsApp Image 2021-03-19 at 9 33 12 PM](https://user-images.githubusercontent.com/72307737/111796552-ddd72c80-88fa-11eb-8639-c4b851e44392.jpeg)
+
 Itulah web socket programming sederhana yang saya modifikasi...
 
 
